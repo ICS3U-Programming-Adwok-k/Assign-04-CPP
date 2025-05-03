@@ -12,6 +12,7 @@ int main() {
     int sum = 0;
     // for loop used to identify the range of numbers
     // from where it starts to where it ends
+    std::cout << "Hello and Welcome to My class" << std::endl;
     for (int num = 0; num < 1000; num++) {
         // if the number is divided by 3 or 5 and has no remainder
         // displays the number
